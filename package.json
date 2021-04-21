@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YuehanDing314.github.io/",
+  "homepage": "https://yuehanding314.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "anix": "^0.3.3",
