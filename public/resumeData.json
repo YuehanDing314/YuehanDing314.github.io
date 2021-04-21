@@ -1,0 +1,117 @@
+{
+    "main": {
+        "name": "Yuehan (Haley) Ding",
+        "description": "I'm software engineer who is passionate in both frontend and backend development",
+        "image": "profilepic.jpg",
+        "bio": "I have the experience in Software Development Life Cycle, Algorithm performance and Object Oriented design. Coding experience in both front-end and back-end development.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "dingyuehan314@outlook.com",
+        "phone": "339-999-1058",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "300 2nd Ave, apt 4182",
+            "city": "Needham",
+            "state": "Massachusetts"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100002665778085",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/yuehan-ding/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/dingyuehanddd/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/YuehanDing314",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here is a quick overview of some skillsets that I have been practicing:",
+        "education": [
+            {
+                "school": "Worcester Polytechnic Institute",
+                "degree": "Master of Science in Information Technology",
+                "graduated": "September 2019 - May 2021",
+                "description": "Courses: Design of Software System, Database Applications Development, Algorithms: Design and Analysis, Data Management for Analytics, Machine Learning, System Design and Development, Telecommunications Management, User Experience Design, Project Management, Data Mining"
+            },
+            {
+                "school": "University of Leeds",
+                "degree": "Master of Arts in TESOL Studies",
+                "graduated": "August 2016 - September 2017",
+                "description": "Courses: Technology Enhanced Language Learning, Analysing Language, Language Teaching Methodology"
+            }
+        ],
+        "work": [
+            {
+                "company": "NASUFUN",
+                "title": "Software Engineer Intern",
+                "years": "January 2021 - Present",
+                "description": "Used react.js for frontend to build a web application for an online ticket booking and event management system. Implemented backend server using python Django framework and REST APIs to support the application. Improved the application’s performance for some pages by up to 90% through using pagination for requests. Led in the database model design and database migrations after each model change."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "SQL",
+                "level": "90%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "HTML/CSS",
+                "level": "70%"
+            },
+            {
+                "name": "JAVA",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Airline Ticket Booking System",
+                "category": "A Java project for an airline ticket booking system similar to KAYAK.com including flight searching, sorting and reserving.",
+                "image": "project1.jpg",
+                "url": "https://github.com/KFZ-Solutions/Prototype"
+            },
+            {
+                "title": "Database Design on Android",
+                "category": "An Android studio project of developing a mobile application for appointment management system of a local barber shop.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Multi-functional Web Application",
+                "category": "A multi-functional website including search bar that tracks user input, video search and play, language translation using React.js.",
+                "image": "project3.jpg",
+                "url": "https://github.com/YuehanDing314/widgets"
+            },
+            {
+                "title": "Machine Learning in Predicting Churn",
+                "category": "A machine learning project consists of data cleaning, data modeling and data visualization using Python libraries.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
